@@ -1,0 +1,4 @@
+# Minimal dependencies for the MVP
+numpy>=1.24
+opencv-python>=4.8
+mediapipe>=0.10.0
